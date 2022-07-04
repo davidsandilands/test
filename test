@@ -1,0 +1,6 @@
+dsc_xwindowspackagecab {'NET-Framework-Core': 
+ dsc_ensure => 'Present', 
+ dsc_sourcepath => 'C:\Temp', 
+ dsc_name => 'microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.cab', 
+ dsc_logpath => 'C:\Temp\microsoft-windows-netfx3-ondemand-package~31bf3856ad364e35~amd64~~.log', 
+}
